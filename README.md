@@ -5,15 +5,52 @@
 
 ### Adventure & Exploration
 Designfleet includes mods, like [Terralith](https://modrinth.com/mod/terralith), [Oh The Biomes You'll Go](https://modrinth.com/mod/biomesyougo), [Towns and Towers](https://modrinth.com/mod/towns-and-towers), [Incendium](https://modrinth.com/mod/incendium), and many more, that elevates your exploration experience.
+<details>
+<summary>Spoiler</summary>
+  
+- Full list of exploration mods:
+  - Incendium
+  - Nullscape
+  - Oh The Biomes You'll Go
+  - Terralith
+  - Towns and Towers
+  - Waystones
+  - Yung's Better...
+    - Desert Temple
+    - Dungeon
+    - End Island
+    - Jungle Temple
+    - Mineshafts
+    - Nether Fortresses
+    - Ocean Monuments
+    - Strongholds
+    - Witch Huts
+  - Yung's Bridges
+</details>
 <br>
 
 </br>
 
 ### Style
 There aren't just terrain and biome mods only, [Farmer's Delight](https://modrinth.com/mod/farmers-delight), [Supplementaries](https://modrinth.com/mod/supplementaries), [Beautify](https://modrinth.com/mod/beautify), and Macaw's mods all give your builds style and aesthetic.
+<details>
+<summary>Spoiler</summary>
+
+- Full list of content mods:
+  - Beautify!
+  - Farmer's Delight
+  - Iron Chests: Restocked
+  - Macaw's...
+    - Bridges + Oh The Biomes You'll Go
+    - Doors + Oh The Biomes You'll Go
+    - Fences + Oh The Biomes You'll Go
+    - Furniture + Oh The Biomes You'll Go
+    - Roofs + Oh The Biomes You'll Go
+  - Supplementaries
+</details>
 <br>
 
 </br>
 
 ### Updated & Supported
-Designfleet recieves fast updates and will keep any mod setting if the original mod creator didn't change anything. If you encounter any issues please write them in the GitHub page.
+Designfleet receives fast updates and will keep any mod settings if the original mod creator didn't change anything. If you encounter any issues please write them in the GitHub page.
